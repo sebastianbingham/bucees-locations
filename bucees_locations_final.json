@@ -1,0 +1,314 @@
+[
+  {
+    "id": 1,
+    "name": "Lake Jackson, TX",
+    "features": "Ethanol-Free Fuel",
+    "address": "899 Oyster Creek Drive Lake Jackson, Texas 77566"
+  },
+  {
+    "id": 2,
+    "name": "Lake Jackson, TX",
+    "features": "",
+    "address": "101 N Hwy 2004 Lake Jackson, Texas 77566"
+  },
+  {
+    "id": 3,
+    "name": "Brazoria, TX",
+    "features": "DEF, Ethanol-Free Fuel",
+    "address": "801 N Brooks Brazoria, Texas 77422"
+  },
+  {
+    "id": 7,
+    "name": "Freeport, TX",
+    "features": "",
+    "address": "4231 E. Hwy 332 Freeport, Texas 77541"
+  },
+  {
+    "id": 8,
+    "name": "Freeport, TX",
+    "features": "",
+    "address": "1002 N Brazosport Blvd. Freeport, Texas 77541"
+  },
+  {
+    "id": 12,
+    "name": "Port Lavaca, TX",
+    "features": "DEF",
+    "address": "2318 W Main Port Lavaca, Texas 77979"
+  },
+  {
+    "id": 13,
+    "name": "Angleton, TX",
+    "features": "",
+    "address": "2299 E Mulberry St Angleton, Texas 77515"
+  },
+  {
+    "id": 14,
+    "name": "Alvin, TX",
+    "features": "",
+    "address": "780 Hwy-35 N Byp Alvin, Texas 77511"
+  },
+  {
+    "id": 16,
+    "name": "Giddings, TX",
+    "features": "",
+    "address": "2375 E Austin St Giddings, Texas 78942"
+  },
+  {
+    "id": 17,
+    "name": "Luling, TX",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "10070 West IH 10 Luling, Texas 78648"
+  },
+  {
+    "id": 18,
+    "name": "Waller, TX",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "40900 US Hwy 290 Bypass Waller, Texas 77484"
+  },
+  {
+    "id": 19,
+    "name": "Pearland, TX",
+    "features": "",
+    "address": "2541 S Main St Pearland, Texas 77584"
+  },
+  {
+    "id": 20,
+    "name": "Pearland, TX",
+    "features": "Tesla Supercharger",
+    "address": "11151 Shadow Creek Pky Pearland, Texas 77584"
+  },
+  {
+    "id": 21,
+    "name": "Angleton, TX",
+    "features": "",
+    "address": "931 Loop 274 Angleton, Texas 77515"
+  },
+  {
+    "id": 22,
+    "name": "New Braunfels, TX",
+    "features": "Tesla Supercharger",
+    "address": "2760 IH 35 North New Braunfels, Texas 78130"
+  },
+  {
+    "id": 23,
+    "name": "League City, TX",
+    "features": "",
+    "address": "1702 League City Pkwy League City, Texas 77573"
+  },
+  {
+    "id": 24,
+    "name": "Eagle Lake, TX",
+    "features": "DEF",
+    "address": "505 E Main St Eagle Lake, Texas 77434"
+  },
+  {
+    "id": 25,
+    "name": "Angleton, TX",
+    "features": "DEF, Ethanol-Free Fuel",
+    "address": "2304 W Mulberry St Angleton, Texas 77515"
+  },
+  {
+    "id": 26,
+    "name": "Madisonville, TX",
+    "features": "Tesla Supercharger",
+    "address": "205 IH-45 South Madisonville, Texas 77864"
+  },
+  {
+    "id": 28,
+    "name": "Bastrop, TX",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "1700 Highway 71 East Bastrop, Texas 78602"
+  },
+  {
+    "id": 29,
+    "name": "Lake Jackson, TX",
+    "features": "Car Wash",
+    "address": "598 Hwy 332 Lake Jackson, Texas 77566"
+  },
+  {
+    "id": 30,
+    "name": "Wharton, TX",
+    "features": "DEF, Tesla Supercharger",
+    "address": "10484 US 59 Road Wharton, Texas 77488"
+  },
+  {
+    "id": 31,
+    "name": "Richmond, TX",
+    "features": "Car Wash",
+    "address": "1243 Crabb River Rd Richmond, Texas 77469"
+  },
+  {
+    "id": 32,
+    "name": "Cypress, TX",
+    "features": "Car Wash",
+    "address": "27106 US-290 Cypress, Texas 77433"
+  },
+  {
+    "id": 33,
+    "name": "Texas City, TX",
+    "features": "DEF, Ethanol-Free Fuel",
+    "address": "6201 Gulf Fwy (IH 45) Texas City, Texas 77591"
+  },
+  {
+    "id": 34,
+    "name": "Baytown, TX",
+    "features": "Car Wash, Tesla Supercharger",
+    "address": "4080 East Freeway Baytown, Texas 77521"
+  },
+  {
+    "id": 35,
+    "name": "Temple, TX",
+    "features": "Car Wash, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "4155 N General Bruce Dr. Temple, Texas 76501"
+  },
+  {
+    "id": 36,
+    "name": "Terrell, TX",
+    "features": "Car Wash, Tesla Supercharger",
+    "address": "506 W. IH 20 Terrell, Texas 75160"
+  },
+  {
+    "id": 37,
+    "name": "Fort Worth, TX",
+    "features": "DEF, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "15901 N Freeway Fort Worth, Texas 76177"
+  },
+  {
+    "id": 38,
+    "name": "Royse City, TX",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "5005 E Interstate 30 Royse City, Texas 75189"
+  },
+  {
+    "id": 39,
+    "name": "Denton, TX",
+    "features": "Car Wash, DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "2800 S Interstate 35 E Denton, Texas 76210"
+  },
+  {
+    "id": 40,
+    "name": "Katy, TX",
+    "features": "Car Wash, DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "27700 Katy Fwy Katy, Texas 77494"
+  },
+  {
+    "id": 42,
+    "name": "Loxley, AL",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "20403 County Rd. 68 Robertsdale, Alabama 36567"
+  },
+  {
+    "id": 43,
+    "name": "Leeds, AL",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "6900 Buc-ee\u2019s Blvd. Leeds, Alabama 35094"
+  },
+  {
+    "id": 44,
+    "name": "Melissa, TX",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "1550 Central Texas Expressway Melissa, Texas 75454"
+  },
+  {
+    "id": 45,
+    "name": "Sevierville, TN",
+    "features": "Car Wash, DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "170 Buc-ee\u2019s Blvd Kodak, Tennessee 37764"
+  },
+  {
+    "id": 46,
+    "name": "Saint Augustine, FL",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "200 World Commerce Pkwy Saint Augustine, Florida 32092"
+  },
+  {
+    "id": 47,
+    "name": "Daytona Beach, FL",
+    "features": "Car Wash, DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "2330 Gateway North Drive Daytona Beach, Florida 32117"
+  },
+  {
+    "id": 48,
+    "name": "Ennis, TX",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "1402 South IH- 45 Ennis, Texas 75119"
+  },
+  {
+    "id": 50,
+    "name": "Crossville, TN",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "2045 Genesis Road Crossville, Tennessee 38555"
+  },
+  {
+    "id": 51,
+    "name": "Warner Robins, GA",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "7001 Russell Parkway Fort Valley, Georgia 31030"
+  },
+  {
+    "id": 52,
+    "name": "Calhoun, GA",
+    "features": "Car Wash, DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "601 Union Grove Rd. SE Adairsville, Georgia 30103"
+  },
+  {
+    "id": 53,
+    "name": "Florence, SC",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "3390 North Williston Road Florence, South Carolina 29506"
+  },
+  {
+    "id": 55,
+    "name": "Richmond, KY",
+    "features": "DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "1013 Buc-ee's Boulevard Richmond, Kentucky 40475"
+  },
+  {
+    "id": 56,
+    "name": "Smiths Grove, KY",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "4001 Smiths Grove-Scottsville Road Smiths Grove, KY 42171"
+  },
+  {
+    "id": 57,
+    "name": "Athens, AL",
+    "features": "Car Wash, DEF, Ethanol-Free Fuel, Mercedes-Benz High-Power Universal Charger, Tesla Supercharger",
+    "address": "2328 Lindsay Lane South Athens, Alabama 35613"
+  },
+  {
+    "id": 58,
+    "name": "Auburn, AL",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "2500 Buc-ee\u2019s Blvd Auburn, Alabama 36832"
+  },
+  {
+    "id": 59,
+    "name": "Hillsboro, TX",
+    "features": "DEF, Ethanol-Free Fuel",
+    "address": "165 State Highway 77 Hillsboro, Texas 76645"
+  },
+  {
+    "id": 60,
+    "name": "Johnstown, CO",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "5201 Nugget Road Berthoud, CO 80513"
+  },
+  {
+    "id": 61,
+    "name": "Harrison County, MS",
+    "features": "DEF, Ethanol-Free Fuel, Tesla Supercharger",
+    "address": "8245 Firetower Road Pass Christian, Mississippi 39571"
+  },
+  {
+    "id": 62,
+    "name": "Springfield, MO",
+    "features": "DEF, Ethanol-Free Fuel",
+    "address": "3284 N Beaver Rd Springfield, Missouri 65803"
+  },
+  {
+    "id": 66,
+    "name": "Amarillo, TX",
+    "features": "DEF, Ethanol-Free Fuel",
+    "address": "9900 East Interstate 40 Amarillo, Texas 79118"
+  }
+]
